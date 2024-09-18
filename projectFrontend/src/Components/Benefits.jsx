@@ -16,7 +16,7 @@ function Benefits() {
 				<div className="w-full md:w-1/2 flex flex-col justify-center space-y-4">
 					<div className="flex items-center space-x-4">
 						<LoyaltyIcon sx={{ fontSize: 50 }} />
-						<h2 className="text-3xl font-bold text-green-900">Benefits </h2>
+						<h2 className="text-5xl font-bold text-green-900">Benefits </h2>
 					</div>
 					<h3 className="text-5xl font-bold text-gray-800 pb-6">
 						Lorem ipsum dolor sit amet consectetur.
@@ -36,7 +36,7 @@ function Benefits() {
 									sx={{ fontSize: 50 }}
 									className="mr-4"
 								/>
-								Inefficient tracking tools
+								Efficient tracking tools
 							</li>
 						</ul>
 					</div>

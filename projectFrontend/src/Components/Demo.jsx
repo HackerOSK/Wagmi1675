@@ -8,11 +8,11 @@ const Demo = () => {
 				className={`w-11/12 md:w-10/12 lg:w-9/12 xl:w-screen mx-auto h-fit gap-7  rounded-lg overflow-hidden flex p-6 mb-12`}
 			>
 				{/* Left Side: Icon, Heading, and Image */}
-				<div className="w-full md:w-1/2 flex flex-col items-start space-y-6">
+				<div className="w-full md:w-1/2 flex flex-col items-start space-y-6 p-6">
 					{/* Icon and Heading */}
 					<div className="flex items-center space-x-4">
 						<CategoryIcon sx={{ fontSize: 50 }} />
-						<h2 className="text-3xl font-bold text-green-500">Try Our Demo</h2>
+						<h2 className="text-5xl font-bold text-green-500">Try Our Demo</h2>
 					</div>
 
 					{/* Feature Image */}
